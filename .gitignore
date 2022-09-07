@@ -1,0 +1,3 @@
+# Project exclude paths
+/Processor/target/
+/Strategy/target/
